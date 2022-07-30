@@ -15,7 +15,8 @@
 
 ### Some handy links
 
-- Telegram channel with news and updates: [@chaotic_aur](https://t.me/s/chaotic_aur) (includes a discussion group)
+- Telegram channel with news and updates: [@chaotic_aur](https://t.me/s/chaotic_aur)
+- Community group for on- and offtopics: [@chaotic_aur_sac](https://t.me/s/chaotic_aur_sac) - feel free to come by! 😊
 - Package list: [Pkgs.org](https://archlinux.pkgs.org/rolling/chaotic-aur-x86_64/)
 - Status page: [Status monitoring](https://status.chaotic.cx/)
 - Latest logs: [Logfiles](https://builds.garudalinux.org/repos/chaotic-aur/logs/)
