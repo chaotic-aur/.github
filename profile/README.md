@@ -10,8 +10,8 @@
 
 ### About
 
-- Most packages available in this repo are automatically built from their respective AUR source package. However there are a few exceptions, check out the [packages repo](https://github.com/chaotic-aur/packages) to find out which ones.
-- The primary building cluster is a node in UFSCars datacenter which is hosted in São Carlos, São Paulo, Brazil.
+- Most packages available in this repo are automatically built from their respective AUR source package. However, there are a few exceptions, check out the [packages repo](https://github.com/chaotic-aur/packages) to find out which ones.
+- The primary building cluster is a node in UFSCar's datacenter which is hosted in São Carlos, São Paulo, Brazil.
 
 ### Some handy links
 
